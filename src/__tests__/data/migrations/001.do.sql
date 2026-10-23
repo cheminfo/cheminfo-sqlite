@@ -1,0 +1,4 @@
+CREATE TABLE molecules (
+  id INTEGER PRIMARY KEY,
+  idCode TEXT NOT NULL
+);

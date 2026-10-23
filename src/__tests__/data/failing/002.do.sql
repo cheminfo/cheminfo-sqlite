@@ -1,0 +1,5 @@
+CREATE TABLE sources (
+  id INTEGER PRIMARY KEY
+);
+
+INSERT INTO missing VALUES (1);
