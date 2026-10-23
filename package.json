@@ -1,6 +1,6 @@
 {
   "name": "cheminfo-sqlite",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "The node:sqlite plumbing shared by the cheminfo backends: typed and timed statements, the standard pragmas, Postgrator migrations under the write lock, and the slow-query log",
   "keywords": [
